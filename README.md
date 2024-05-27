@@ -1,2 +1,2 @@
 hello, world!
-hello! it's me!
+hello! it's me!Hello, Conflict!
